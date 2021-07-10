@@ -1,4 +1,4 @@
-### Feel free to browse my wares...
+**If you modify and/or redistribute any of my projects (exclusing forks), I only ask that you credit me (Ungstein) as the original author.**
 
 <!--
 **ungstein/ungstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
